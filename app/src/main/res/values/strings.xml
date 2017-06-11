@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Vienna Tour Guide</string>
+
+    <!-- Category name for architecture -->
+    <string name="category_architecture">Architecture</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_nightlife">Nightlife</string>
+    <string name="category_monuments">Monuments</string>
+</resources>
